@@ -1,2 +1,1 @@
-# andrewchimney.github.io
-btdb2randomizer.andrewchimney.com
+Website for bloons tower defense battles 2 randomizer => btdb2randomizer.andrewchimney.com
